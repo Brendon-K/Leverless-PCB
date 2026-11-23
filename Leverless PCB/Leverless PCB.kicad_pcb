@@ -90,7 +90,7 @@
 	(footprint "keyswitches.pretty-master:Kailh_socket_MX_platemount"
 		(layer "F.Cu")
 		(uuid "1059a8bb-63a9-4dd8-82b6-30ba67bad4df")
-		(at 225.121 72.898)
+		(at 212.04 61.468)
 		(descr "MX-style keyswitch with Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW16"
@@ -611,7 +611,7 @@
 	(footprint "keyswitches.pretty-master:Kailh_socket_MX_platemount"
 		(layer "F.Cu")
 		(uuid "1c526978-d704-4c4f-8a68-0a79e57bf6c0")
-		(at 244.121 72.898)
+		(at 231.04 61.468)
 		(descr "MX-style keyswitch with Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW18"
@@ -1132,13 +1132,13 @@
 	(footprint "keyswitches.pretty-master:Kailh_socket_MX_platemount"
 		(layer "F.Cu")
 		(uuid "206832bd-ab78-4d08-b032-bff3d600fc21")
-		(at 225.848 159.654)
+		(at 192.436209 155.913714)
 		(descr "MX-style keyswitch with Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW5"
 			(at 0 -8.255 0)
 			(layer "B.SilkS")
-			(uuid "7c4dcb9c-0abd-4774-abf7-cb719ea91068")
+			(uuid "7274cb5b-5dfa-4542-af8a-8fcd4b473d97")
 			(effects
 				(font
 					(size 1 1)
@@ -1150,7 +1150,7 @@
 		(property "Value" "SW_Push_B1"
 			(at 0 8.255 0)
 			(layer "F.Fab")
-			(uuid "fc35bd31-9ef7-489f-b0e9-2f3e3ca11adb")
+			(uuid "ac537f35-ffd7-4b62-b831-4e373879598d")
 			(effects
 				(font
 					(size 1 1)
@@ -1162,7 +1162,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "188b11c5-2618-48a5-9a3e-dc36d2d78e20")
+			(uuid "3a879d89-d2bf-4190-b31c-76f27bc2ca53")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1173,7 +1173,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ed4a1e0b-f3fb-4e57-8429-2cca3fe2e970")
+			(uuid "447c8d1d-00e2-422d-a397-a1b38edc3e9c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1653,13 +1653,13 @@
 	(footprint "keyswitches.pretty-master:Kailh_socket_MX_platemount"
 		(layer "F.Cu")
 		(uuid "24c09542-5c34-4895-8f5a-7c22b30d564f")
-		(at 250.848 145.654)
+		(at 217.436209 141.913714)
 		(descr "MX-style keyswitch with Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW6"
 			(at 0 -8.255 0)
 			(layer "B.SilkS")
-			(uuid "b3c945e5-6f71-4c22-9dbf-1872f6dec8a5")
+			(uuid "49366278-2fdc-4d85-829e-599778dbba7f")
 			(effects
 				(font
 					(size 1 1)
@@ -1671,7 +1671,7 @@
 		(property "Value" "SW_Push_B2"
 			(at 0 8.255 0)
 			(layer "F.Fab")
-			(uuid "713b0572-7b90-4ba0-b895-5e03fe1318b4")
+			(uuid "40a45a24-de71-402e-bde6-81d2cf852cd4")
 			(effects
 				(font
 					(size 1 1)
@@ -1683,7 +1683,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bb618d91-71b4-4e26-bc34-0bdfa4f61733")
+			(uuid "b61e4fcf-0b1b-4eef-8d5e-2f60f2e929f4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1694,7 +1694,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "919292b0-6248-4e82-a80e-120dd29d5901")
+			(uuid "332fef00-b95a-4ca8-9e9e-889243d8940f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2174,7 +2174,7 @@
 	(footprint "keyswitches.pretty-master:Kailh_socket_MX_platemount"
 		(layer "F.Cu")
 		(uuid "3dfc3b7e-f984-426d-a936-2e4faf3b48b0")
-		(at 263.121 72.898)
+		(at 250.04 61.468)
 		(descr "MX-style keyswitch with Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW17"
@@ -2695,7 +2695,7 @@
 	(footprint "keyswitches.pretty-master:Kailh_socket_MX_platemount"
 		(layer "F.Cu")
 		(uuid "446264b3-3726-4aff-aa42-4c0413af506d")
-		(at 282.177 73.406)
+		(at 269.04 61.468)
 		(descr "MX-style keyswitch with Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW14"
@@ -3216,13 +3216,13 @@
 	(footprint "keyswitches.pretty-master:Kailh_socket_MX_platemount"
 		(layer "F.Cu")
 		(uuid "6e21ac7c-68f6-4f7a-a1bb-bc607dd67da4")
-		(at 307.848 152.654)
+		(at 274.436209 148.913714)
 		(descr "MX-style keyswitch with Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW8"
 			(at 0 -8.255 0)
 			(layer "B.SilkS")
-			(uuid "2e2724a5-9d0a-4634-99d8-50cdda5a3ddf")
+			(uuid "d82113c3-cde8-439e-a981-211d2c892831")
 			(effects
 				(font
 					(size 1 1)
@@ -3234,7 +3234,7 @@
 		(property "Value" "SW_Push_L2"
 			(at 0 8.255 0)
 			(layer "F.Fab")
-			(uuid "f2121d20-7ef8-4e04-abc2-880345fb23fa")
+			(uuid "70efb40d-8340-455b-8dfd-a5a57a96ee4d")
 			(effects
 				(font
 					(size 1 1)
@@ -3246,7 +3246,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f4fea100-e069-4f75-a701-2f648bf01aba")
+			(uuid "b6ffb906-aadd-4541-a958-b3ded18e801a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3257,7 +3257,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "73f1a4bd-054e-4351-970e-b324071fd4d6")
+			(uuid "f7fb269a-a721-49e1-b293-e852dd3afa87")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3737,7 +3737,7 @@
 	(footprint "keyswitches.pretty-master:Kailh_socket_MX_platemount"
 		(layer "F.Cu")
 		(uuid "6e63a640-c33f-4357-9fe8-3f75b49cf1d7")
-		(at 206.121 72.898)
+		(at 193.04 61.468)
 		(descr "MX-style keyswitch with Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW15"
@@ -4258,13 +4258,13 @@
 	(footprint "keyswitches.pretty-master:Kailh_socket_MX_platemount"
 		(layer "F.Cu")
 		(uuid "7cd5d66c-ec5f-42c6-a22b-1eb233fd5a7a")
-		(at 163.848 127.654)
+		(at 130.436209 123.913714)
 		(descr "MX-style keyswitch with Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW2"
 			(at 0 -8.255 0)
 			(layer "B.SilkS")
-			(uuid "30623f0a-dbd0-4eac-b41a-08171b0c3add")
+			(uuid "68e5b1ea-be59-4cfc-b6f7-74f0a67d1c43")
 			(effects
 				(font
 					(size 1 1)
@@ -4276,7 +4276,7 @@
 		(property "Value" "SW_Push_DOWN"
 			(at 0 8.255 0)
 			(layer "F.Fab")
-			(uuid "bd6a1b76-c98c-4b6d-8ec2-58841f00f149")
+			(uuid "d2a2acbf-a729-422a-84a9-c809d4953c18")
 			(effects
 				(font
 					(size 1 1)
@@ -4288,7 +4288,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "370d3af1-4cef-4ba9-aadc-069a47a5b373")
+			(uuid "7d0dd00a-fab5-48ce-921c-8221ce5a5bf2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4299,7 +4299,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5aac9e62-b461-4634-8005-17d6477eb771")
+			(uuid "2778f7c5-5ede-4d70-885a-1ed97182efe8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4779,13 +4779,13 @@
 	(footprint "keyswitches.pretty-master:Kailh_socket_MX_platemount"
 		(layer "F.Cu")
 		(uuid "84210d86-52a8-4616-94fa-69573b8db2f5")
-		(at 225.848 130.654)
+		(at 192.436209 126.913714)
 		(descr "MX-style keyswitch with Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW9"
 			(at 0 -8.255 0)
 			(layer "B.SilkS")
-			(uuid "97cc5cfa-c2f3-4c04-bef4-0d9e2855c0d4")
+			(uuid "48984379-e47e-4519-9b73-be311439882e")
 			(effects
 				(font
 					(size 1 1)
@@ -4797,7 +4797,7 @@
 		(property "Value" "SW_Push_B3"
 			(at 0 8.255 0)
 			(layer "F.Fab")
-			(uuid "5efbc600-f5c3-4776-a92f-66a5f70bb2ba")
+			(uuid "6d9ee540-e5f8-4df6-b38b-a948e98ced8d")
 			(effects
 				(font
 					(size 1 1)
@@ -4809,7 +4809,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "40028632-85a4-49d3-9325-d580103f5116")
+			(uuid "a1118bb6-3dcc-4e27-9d86-3187128b3f17")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4820,7 +4820,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bb2a8246-defe-4537-84f4-b9e26aeaa8ff")
+			(uuid "c2ab6f16-f254-4318-a042-be1d1a8282fe")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5300,13 +5300,13 @@
 	(footprint "keyswitches.pretty-master:Kailh_socket_MX_platemount"
 		(layer "F.Cu")
 		(uuid "8c945115-cca9-4fd5-8814-7c40032925c3")
-		(at 279.848 145.654)
+		(at 246.436209 141.913714)
 		(descr "MX-style keyswitch with Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW7"
 			(at 0 -8.255 0)
 			(layer "B.SilkS")
-			(uuid "1c373b56-94e2-4e8d-a758-d1b46b94e87b")
+			(uuid "76462961-e90f-4947-b52c-5360afdc2826")
 			(effects
 				(font
 					(size 1 1)
@@ -5318,7 +5318,7 @@
 		(property "Value" "SW_Push_R2"
 			(at 0 8.255 0)
 			(layer "F.Fab")
-			(uuid "0ca74bdf-b7a4-4928-b957-790d35b4d91a")
+			(uuid "0a805f67-081a-40b1-bdf6-70ff9e93f05a")
 			(effects
 				(font
 					(size 1 1)
@@ -5330,7 +5330,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "dd4d8429-fb43-4e84-a206-116b67113239")
+			(uuid "1147b0ad-658f-437d-8577-fb8440ebd9ab")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5341,7 +5341,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "530b0013-b5e7-48d2-bbf4-01f39ac1b134")
+			(uuid "aa4b7741-6476-428f-886d-741629053fc5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5821,13 +5821,13 @@
 	(footprint "keyswitches.pretty-master:Kailh_socket_MX_platemount"
 		(layer "F.Cu")
 		(uuid "8cabb102-655f-4263-9aa9-e24efa88228c")
-		(at 203.848 194.654)
+		(at 170.436209 190.913714)
 		(descr "MX-style keyswitch with Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW1"
 			(at 0 -8.255 0)
 			(layer "B.SilkS")
-			(uuid "dd4079b9-a512-42a6-8cf3-a0ef08ee011b")
+			(uuid "e64f4505-0046-4543-b12a-634cfcbbd127")
 			(effects
 				(font
 					(size 1 1)
@@ -5839,7 +5839,7 @@
 		(property "Value" "SW_Push_UP"
 			(at 0 8.255 0)
 			(layer "F.Fab")
-			(uuid "f2fdaa02-4d7a-4011-a853-bbd197250ffd")
+			(uuid "8cc8c712-6612-4890-9668-32fea0dd0dcc")
 			(effects
 				(font
 					(size 1 1)
@@ -5851,7 +5851,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "59e6ccb5-7d5b-4b60-bf64-25abe1781050")
+			(uuid "4ea0178e-2b05-4db9-98e0-cc9e95f503b3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5862,7 +5862,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d54d3b53-8002-4a21-b439-e3c109f738b9")
+			(uuid "a6af8a7d-15d8-4028-9135-79dcf948b786")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6342,13 +6342,13 @@
 	(footprint "keyswitches.pretty-master:Kailh_socket_MX_platemount"
 		(layer "F.Cu")
 		(uuid "9f4c6622-a8bd-4032-8861-69a9186b4f48")
-		(at 307.848 123.654)
+		(at 274.436209 119.913714)
 		(descr "MX-style keyswitch with Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW12"
 			(at 0 -8.255 0)
 			(layer "B.SilkS")
-			(uuid "d451f8ae-f076-40e5-92c0-b24e2c454e1a")
+			(uuid "79850e8d-7a72-4976-a18d-a01012a86ba1")
 			(effects
 				(font
 					(size 1 1)
@@ -6360,7 +6360,7 @@
 		(property "Value" "SW_Push_L1"
 			(at 0 8.255 0)
 			(layer "F.Fab")
-			(uuid "1a2b4d5c-6fcc-43d1-915d-83c21fc1e6b0")
+			(uuid "b9d75ab9-04d0-4d6f-8895-8dc0fb55262b")
 			(effects
 				(font
 					(size 1 1)
@@ -6372,7 +6372,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "02d89e12-8e92-4f11-9a54-1706ebe2f8e0")
+			(uuid "05685a65-ce34-4d4c-b74f-2860dc7783ec")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6383,7 +6383,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "506c9d61-104e-4616-b904-5100b0e4a49c")
+			(uuid "b7131d07-c58c-442f-a424-d1dcf1d1a8f1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6863,13 +6863,13 @@
 	(footprint "keyswitches.pretty-master:Kailh_socket_MX_platemount"
 		(layer "F.Cu")
 		(uuid "a7ca17f8-f339-4046-930f-75f186e117af")
-		(at 250.848 116.654)
+		(at 217.436209 112.913714)
 		(descr "MX-style keyswitch with Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW10"
 			(at 0 -8.255 0)
 			(layer "B.SilkS")
-			(uuid "42e65c8e-1611-49b4-8155-ca2806c68b7d")
+			(uuid "f3f51777-40dc-4551-a52f-ec990a8afcde")
 			(effects
 				(font
 					(size 1 1)
@@ -6881,7 +6881,7 @@
 		(property "Value" "SW_Push_B4"
 			(at 0 8.255 0)
 			(layer "F.Fab")
-			(uuid "3fcaa9d2-408c-4826-ac92-a0746085c1ca")
+			(uuid "7fd8c5d1-3f94-4cb5-a4c9-6a27559fb888")
 			(effects
 				(font
 					(size 1 1)
@@ -6893,7 +6893,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e413015c-3004-4223-97b6-1e3a662a21fa")
+			(uuid "2c7a155c-c880-4f86-addc-0f3fee7f7350")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6904,7 +6904,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "357e4cb9-df23-4b2c-8dec-1b6896856609")
+			(uuid "0bf0cba4-eea3-4972-a7e2-8fcd4a4e429e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7384,13 +7384,13 @@
 	(footprint "keyswitches.pretty-master:Kailh_socket_MX_platemount"
 		(layer "F.Cu")
 		(uuid "a9ed727c-061c-44da-b9e7-8435a6b1b095")
-		(at 279.848 116.654)
+		(at 246.436209 112.913714)
 		(descr "MX-style keyswitch with Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW11"
 			(at 0 -8.255 0)
 			(layer "B.SilkS")
-			(uuid "250e44ef-d805-4ebb-a06b-a06413453c17")
+			(uuid "42ff1412-52de-4ff8-a3ab-bd33754f58b6")
 			(effects
 				(font
 					(size 1 1)
@@ -7402,7 +7402,7 @@
 		(property "Value" "SW_Push_R1"
 			(at 0 8.255 0)
 			(layer "F.Fab")
-			(uuid "13242568-0347-4b29-8382-af56697f0617")
+			(uuid "1db9e78c-8f94-4886-a2ef-09511da79c43")
 			(effects
 				(font
 					(size 1 1)
@@ -7414,7 +7414,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b1213565-af85-45b2-ad04-83f600c52812")
+			(uuid "30239555-e30c-4f13-8d90-ae7fb8eee72e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7425,7 +7425,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1b5a5aac-790e-4c79-b9c4-9b7fc69bcd95")
+			(uuid "baab216b-159e-42d8-964d-fe4e35136253")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7905,13 +7905,13 @@
 	(footprint "keyswitches.pretty-master:Kailh_socket_MX_platemount"
 		(layer "F.Cu")
 		(uuid "b8be6ca9-7f44-4bd8-87cf-2cb9b93debbc")
-		(at 188.848 141.654)
+		(at 155.436209 137.913714)
 		(descr "MX-style keyswitch with Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW3"
 			(at 0 -8.255 0)
 			(layer "B.SilkS")
-			(uuid "fadb3488-112b-4e3d-88e3-484803a972f2")
+			(uuid "b493fba5-2e63-4102-a5e5-bf6a91419082")
 			(effects
 				(font
 					(size 1 1)
@@ -7923,7 +7923,7 @@
 		(property "Value" "SW_Push_RIGHT"
 			(at 0 8.255 0)
 			(layer "F.Fab")
-			(uuid "40579543-bf21-4623-b5b8-9a67f69a88a4")
+			(uuid "581facfd-9dca-4e3b-b385-52519c1e9304")
 			(effects
 				(font
 					(size 1 1)
@@ -7935,7 +7935,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "948f73a2-cf73-4c05-b98c-7f84e41f1878")
+			(uuid "01f73c6c-88a8-42d6-af3f-0b4e4112e3d6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7946,7 +7946,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f31fae30-4709-4397-91eb-f1a0941cde2d")
+			(uuid "ccb3000d-62ec-4e96-97d9-4fa926f01750")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8426,13 +8426,13 @@
 	(footprint "keyswitches.pretty-master:Kailh_socket_MX_platemount"
 		(layer "F.Cu")
 		(uuid "e5cf81a8-66d8-45a6-a092-3b51483bcdd8")
-		(at 134.848 127.654)
+		(at 101.436209 123.913714)
 		(descr "MX-style keyswitch with Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW4"
 			(at 0 -8.255 0)
 			(layer "B.SilkS")
-			(uuid "83cbaca9-702e-41a4-bd83-e470fd64e2af")
+			(uuid "4d5160e8-4482-4b11-a953-9a82d8976e30")
 			(effects
 				(font
 					(size 1 1)
@@ -8444,7 +8444,7 @@
 		(property "Value" "SW_Push_LEFT"
 			(at 0 8.255 0)
 			(layer "F.Fab")
-			(uuid "4f4b053f-d6f1-4800-9088-27b652a5014e")
+			(uuid "eea5b1a7-4469-49b4-be69-e849a1ca0c87")
 			(effects
 				(font
 					(size 1 1)
@@ -8456,7 +8456,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7609356f-c80f-462d-bed9-7a418bbbdc44")
+			(uuid "4df68ecd-7bc1-471d-bd6b-0d2a91f83988")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8467,7 +8467,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0527fc31-5bc5-4499-8988-d61b2e055fa0")
+			(uuid "a6d1ceca-b2cc-4ab0-a6e3-875b7b38cc3d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8947,7 +8947,7 @@
 	(footprint "Module:RaspberryPi_Pico_W_SMD_HandSolder"
 		(layer "F.Cu")
 		(uuid "ec9396e6-fb0c-4437-872d-a6f6f796dd75")
-		(at 157.6579 76.85)
+		(at 162.4839 76.088)
 		(descr "Raspberry Pi Pico W surface-mount footprint with debug pads for hand soldering (not compatible with non-wireless Pico), supports Raspberry Pi Pico 2 W, https://datasheets.raspberrypi.com/picow/pico-w-datasheet.pdf")
 		(tags "module usb pcb swd antenna")
 		(property "Reference" "A1"
@@ -11115,7 +11115,7 @@
 			)
 			(polygon
 				(pts
-					(xy 136.6579 101.85) (xy 178.6579 101.85) (xy 178.6579 111.85) (xy 136.6579 111.85)
+					(xy 141.4839 101.088) (xy 183.4839 101.088) (xy 183.4839 111.088) (xy 141.4839 111.088)
 				)
 			)
 		)
@@ -11146,8 +11146,8 @@
 			)
 			(polygon
 				(pts
-					(xy 155.2579 101.839895) (xy 150.5579 98.189895) (xy 150.5579 93.85) (xy 164.7579 93.85) (xy 164.7579 98.189895)
-					(xy 160.0579 101.839895) (xy 160.0579 101.85) (xy 155.2579 101.85)
+					(xy 160.0839 101.077895) (xy 155.3839 97.427895) (xy 155.3839 93.088) (xy 169.5839 93.088) (xy 169.5839 97.427895)
+					(xy 164.8839 101.077895) (xy 164.8839 101.088) (xy 160.0839 101.088)
 				)
 			)
 		)
@@ -11178,11 +11178,11 @@
 			)
 			(polygon
 				(pts
-					(xy 154.642355 66.797861) (xy 154.515733 66.763932) (xy 154.402206 66.698388) (xy 154.309512 66.605694)
-					(xy 154.243968 66.492167) (xy 154.210039 66.365545) (xy 154.2079 66.3) (xy 154.2079 62.6) (xy 156.1079 62.6)
-					(xy 156.1079 66.3) (xy 156.105761 66.365545) (xy 156.071832 66.492167) (xy 156.006288 66.605694)
-					(xy 155.913594 66.698388) (xy 155.800067 66.763932) (xy 155.673445 66.797861) (xy 155.6079 66.8)
-					(xy 154.7079 66.8)
+					(xy 159.468355 66.035861) (xy 159.341733 66.001932) (xy 159.228206 65.936388) (xy 159.135512 65.843694)
+					(xy 159.069968 65.730167) (xy 159.036039 65.603545) (xy 159.0339 65.538) (xy 159.0339 61.838) (xy 160.9339 61.838)
+					(xy 160.9339 65.538) (xy 160.931761 65.603545) (xy 160.897832 65.730167) (xy 160.832288 65.843694)
+					(xy 160.739594 65.936388) (xy 160.626067 66.001932) (xy 160.499445 66.035861) (xy 160.4339 66.038)
+					(xy 159.5339 66.038)
 				)
 			)
 		)
@@ -11213,11 +11213,11 @@
 			)
 			(polygon
 				(pts
-					(xy 155.710039 52.034455) (xy 155.743968 51.907833) (xy 155.809512 51.794306) (xy 155.902206 51.701612)
-					(xy 156.015733 51.636068) (xy 156.142355 51.602139) (xy 156.2079 51.6) (xy 156.6579 51.6) (xy 156.6579 53.5)
-					(xy 156.2079 53.5) (xy 156.142355 53.497861) (xy 156.015733 53.463932) (xy 155.902206 53.398388)
-					(xy 155.809512 53.305694) (xy 155.743968 53.192167) (xy 155.710039 53.065545) (xy 155.7079 53)
-					(xy 155.7079 52.1)
+					(xy 160.536039 51.272455) (xy 160.569968 51.145833) (xy 160.635512 51.032306) (xy 160.728206 50.939612)
+					(xy 160.841733 50.874068) (xy 160.968355 50.840139) (xy 161.0339 50.838) (xy 161.4839 50.838) (xy 161.4839 52.738)
+					(xy 161.0339 52.738) (xy 160.968355 52.735861) (xy 160.841733 52.701932) (xy 160.728206 52.636388)
+					(xy 160.635512 52.543694) (xy 160.569968 52.430167) (xy 160.536039 52.303545) (xy 160.5339 52.238)
+					(xy 160.5339 51.338)
 				)
 			)
 		)
@@ -11248,11 +11248,11 @@
 			)
 			(polygon
 				(pts
-					(xy 156.1079 62.6) (xy 156.1079 58.9) (xy 156.105761 58.834455) (xy 156.071833 58.707833) (xy 156.006288 58.594306)
-					(xy 155.913594 58.501612) (xy 155.800067 58.436067) (xy 155.673445 58.402139) (xy 155.6079 58.4)
-					(xy 154.7079 58.4) (xy 154.642355 58.402139) (xy 154.515733 58.436067) (xy 154.402206 58.501612)
-					(xy 154.309512 58.594306) (xy 154.243967 58.707833) (xy 154.210039 58.834455) (xy 154.2079 58.9)
-					(xy 154.2079 62.6)
+					(xy 160.9339 61.838) (xy 160.9339 58.138) (xy 160.931761 58.072455) (xy 160.897833 57.945833) (xy 160.832288 57.832306)
+					(xy 160.739594 57.739612) (xy 160.626067 57.674067) (xy 160.499445 57.640139) (xy 160.4339 57.638)
+					(xy 159.5339 57.638) (xy 159.468355 57.640139) (xy 159.341733 57.674067) (xy 159.228206 57.739612)
+					(xy 159.135512 57.832306) (xy 159.069967 57.945833) (xy 159.036039 58.072455) (xy 159.0339 58.138)
+					(xy 159.0339 61.838)
 				)
 			)
 		)
@@ -11283,11 +11283,11 @@
 			)
 			(polygon
 				(pts
-					(xy 156.6579 53.5) (xy 157.1079 53.5) (xy 157.173445 53.497861) (xy 157.300067 53.463933) (xy 157.413594 53.398388)
-					(xy 157.506288 53.305694) (xy 157.571833 53.192167) (xy 157.605761 53.065545) (xy 157.6079 53)
-					(xy 157.6079 52.1) (xy 157.605761 52.034455) (xy 157.571833 51.907833) (xy 157.506288 51.794306)
-					(xy 157.413594 51.701612) (xy 157.300067 51.636067) (xy 157.173445 51.602139) (xy 157.1079 51.6)
-					(xy 156.6579 51.6)
+					(xy 161.4839 52.738) (xy 161.9339 52.738) (xy 161.999445 52.735861) (xy 162.126067 52.701933) (xy 162.239594 52.636388)
+					(xy 162.332288 52.543694) (xy 162.397833 52.430167) (xy 162.431761 52.303545) (xy 162.4339 52.238)
+					(xy 162.4339 51.338) (xy 162.431761 51.272455) (xy 162.397833 51.145833) (xy 162.332288 51.032306)
+					(xy 162.239594 50.939612) (xy 162.126067 50.874067) (xy 161.999445 50.840139) (xy 161.9339 50.838)
+					(xy 161.4839 50.838)
 				)
 			)
 		)
@@ -11318,11 +11318,11 @@
 			)
 			(polygon
 				(pts
-					(xy 156.710039 55.334455) (xy 156.743968 55.207833) (xy 156.809512 55.094306) (xy 156.902206 55.001612)
-					(xy 157.015733 54.936068) (xy 157.142355 54.902139) (xy 157.2079 54.9) (xy 157.6579 54.9) (xy 157.6579 56.8)
-					(xy 157.2079 56.8) (xy 157.142355 56.797861) (xy 157.015733 56.763932) (xy 156.902206 56.698388)
-					(xy 156.809512 56.605694) (xy 156.743968 56.492167) (xy 156.710039 56.365545) (xy 156.7079 56.3)
-					(xy 156.7079 55.4)
+					(xy 161.536039 54.572455) (xy 161.569968 54.445833) (xy 161.635512 54.332306) (xy 161.728206 54.239612)
+					(xy 161.841733 54.174068) (xy 161.968355 54.140139) (xy 162.0339 54.138) (xy 162.4839 54.138) (xy 162.4839 56.038)
+					(xy 162.0339 56.038) (xy 161.968355 56.035861) (xy 161.841733 56.001932) (xy 161.728206 55.936388)
+					(xy 161.635512 55.843694) (xy 161.569968 55.730167) (xy 161.536039 55.603545) (xy 161.5339 55.538)
+					(xy 161.5339 54.638)
 				)
 			)
 		)
@@ -11353,11 +11353,11 @@
 			)
 			(polygon
 				(pts
-					(xy 157.6579 56.8) (xy 158.1079 56.8) (xy 158.173445 56.797861) (xy 158.300067 56.763933) (xy 158.413594 56.698388)
-					(xy 158.506288 56.605694) (xy 158.571833 56.492167) (xy 158.605761 56.365545) (xy 158.6079 56.3)
-					(xy 158.6079 55.4) (xy 158.605761 55.334455) (xy 158.571833 55.207833) (xy 158.506288 55.094306)
-					(xy 158.413594 55.001612) (xy 158.300067 54.936067) (xy 158.173445 54.902139) (xy 158.1079 54.9)
-					(xy 157.6579 54.9)
+					(xy 162.4839 56.038) (xy 162.9339 56.038) (xy 162.999445 56.035861) (xy 163.126067 56.001933) (xy 163.239594 55.936388)
+					(xy 163.332288 55.843694) (xy 163.397833 55.730167) (xy 163.431761 55.603545) (xy 163.4339 55.538)
+					(xy 163.4339 54.638) (xy 163.431761 54.572455) (xy 163.397833 54.445833) (xy 163.332288 54.332306)
+					(xy 163.239594 54.239612) (xy 163.126067 54.174067) (xy 162.999445 54.140139) (xy 162.9339 54.138)
+					(xy 162.4839 54.138)
 				)
 			)
 		)
@@ -11388,11 +11388,11 @@
 			)
 			(polygon
 				(pts
-					(xy 157.710039 52.049455) (xy 157.743968 51.922833) (xy 157.809512 51.809306) (xy 157.902206 51.716612)
-					(xy 158.015733 51.651068) (xy 158.142355 51.617139) (xy 158.2079 51.615) (xy 158.6579 51.615) (xy 158.6579 53.515)
-					(xy 158.2079 53.515) (xy 158.142355 53.512861) (xy 158.015733 53.478932) (xy 157.902206 53.413388)
-					(xy 157.809512 53.320694) (xy 157.743968 53.207167) (xy 157.710039 53.080545) (xy 157.7079 53.015)
-					(xy 157.7079 52.115)
+					(xy 162.536039 51.287455) (xy 162.569968 51.160833) (xy 162.635512 51.047306) (xy 162.728206 50.954612)
+					(xy 162.841733 50.889068) (xy 162.968355 50.855139) (xy 163.0339 50.853) (xy 163.4839 50.853) (xy 163.4839 52.753)
+					(xy 163.0339 52.753) (xy 162.968355 52.750861) (xy 162.841733 52.716932) (xy 162.728206 52.651388)
+					(xy 162.635512 52.558694) (xy 162.569968 52.445167) (xy 162.536039 52.318545) (xy 162.5339 52.253)
+					(xy 162.5339 51.353)
 				)
 			)
 		)
@@ -11423,11 +11423,11 @@
 			)
 			(polygon
 				(pts
-					(xy 158.6579 53.515) (xy 159.1079 53.515) (xy 159.173445 53.512861) (xy 159.300067 53.478933) (xy 159.413594 53.413388)
-					(xy 159.506288 53.320694) (xy 159.571833 53.207167) (xy 159.605761 53.080545) (xy 159.6079 53.015)
-					(xy 159.6079 52.115) (xy 159.605761 52.049455) (xy 159.571833 51.922833) (xy 159.506288 51.809306)
-					(xy 159.413594 51.716612) (xy 159.300067 51.651067) (xy 159.173445 51.617139) (xy 159.1079 51.615)
-					(xy 158.6579 51.615)
+					(xy 163.4839 52.753) (xy 163.9339 52.753) (xy 163.999445 52.750861) (xy 164.126067 52.716933) (xy 164.239594 52.651388)
+					(xy 164.332288 52.558694) (xy 164.397833 52.445167) (xy 164.431761 52.318545) (xy 164.4339 52.253)
+					(xy 164.4339 51.353) (xy 164.431761 51.287455) (xy 164.397833 51.160833) (xy 164.332288 51.047306)
+					(xy 164.239594 50.954612) (xy 164.126067 50.889067) (xy 163.999445 50.855139) (xy 163.9339 50.853)
+					(xy 163.4839 50.853)
 				)
 			)
 		)
@@ -11458,7 +11458,7 @@
 			)
 			(polygon
 				(pts
-					(xy 151.4579 29.2) (xy 163.8579 29.2) (xy 163.8579 49.6) (xy 151.4579 49.6)
+					(xy 156.2839 28.438) (xy 168.6839 28.438) (xy 168.6839 48.838) (xy 156.2839 48.838)
 				)
 			)
 		)
@@ -11489,8 +11489,8 @@
 			)
 			(polygon
 				(pts
-					(xy 164.7579 102.85) (xy 178.6579 102.85) (xy 178.6579 111.85) (xy 136.6579 111.85) (xy 136.6579 102.85)
-					(xy 150.5579 102.85) (xy 150.5579 93.85) (xy 164.7579 93.85)
+					(xy 169.5839 102.088) (xy 183.4839 102.088) (xy 183.4839 111.088) (xy 141.4839 111.088) (xy 141.4839 102.088)
+					(xy 155.3839 102.088) (xy 155.3839 93.088) (xy 169.5839 93.088)
 				)
 			)
 		)
@@ -11521,8 +11521,8 @@
 			)
 			(polygon
 				(pts
-					(xy 151.9079 49.15) (xy 153.7179 49.15) (xy 153.7179 49.55) (xy 161.5979 49.55) (xy 161.5979 49.15)
-					(xy 163.4079 49.15) (xy 163.4079 29.65) (xy 151.9079 29.65)
+					(xy 156.7339 48.388) (xy 158.5439 48.388) (xy 158.5439 48.788) (xy 166.4239 48.788) (xy 166.4239 48.388)
+					(xy 168.2339 48.388) (xy 168.2339 28.888) (xy 156.7339 28.888)
 				)
 			)
 		)
@@ -11667,7 +11667,7 @@
 	(footprint "keyswitches.pretty-master:Kailh_socket_MX_platemount"
 		(layer "F.Cu")
 		(uuid "f7fbb30d-52f4-4298-8a8d-30847217750c")
-		(at 301.177 73.406)
+		(at 288.04 61.468)
 		(descr "MX-style keyswitch with Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW13"
@@ -12187,7 +12187,7 @@
 	)
 	(gr_rect
 		(start 80 50)
-		(end 330 210)
+		(end 300 210)
 		(stroke
 			(width 0.2)
 			(type solid)
@@ -12237,11 +12237,11 @@
 	(dimension
 		(type orthogonal)
 		(layer "F.Cu")
-		(uuid "e0f31459-4de6-4487-8049-5728c50572fb")
+		(uuid "987f1d1e-b1c6-4ef0-b03b-2e8b22a251ab")
 		(pts
-			(xy 80 50) (xy 330 50)
+			(xy 300 50) (xy 80 54.936067)
 		)
-		(height -28.664)
+		(height -25.362)
 		(orientation 0)
 		(format
 			(prefix "")
@@ -12260,16 +12260,26 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "250"
-			(at 205 19.536 0)
+		(gr_text "220"
+			(at 190 22.838 0)
 			(layer "F.Cu")
-			(uuid "e0f31459-4de6-4487-8049-5728c50572fb")
+			(uuid "987f1d1e-b1c6-4ef0-b03b-2e8b22a251ab")
 			(effects
 				(font
 					(size 1.5 1.5)
 					(thickness 0.3)
 				)
 			)
+		)
+	)
+	(group ""
+		(uuid "aed7441c-25ab-447e-82e6-8cc30a6687f2")
+		(members "206832bd-ab78-4d08-b032-bff3d600fc21" "24c09542-5c34-4895-8f5a-7c22b30d564f"
+			"6e21ac7c-68f6-4f7a-a1bb-bc607dd67da4" "7cd5d66c-ec5f-42c6-a22b-1eb233fd5a7a"
+			"84210d86-52a8-4616-94fa-69573b8db2f5" "8c945115-cca9-4fd5-8814-7c40032925c3"
+			"8cabb102-655f-4263-9aa9-e24efa88228c" "9f4c6622-a8bd-4032-8861-69a9186b4f48"
+			"a7ca17f8-f339-4046-930f-75f186e117af" "a9ed727c-061c-44da-b9e7-8435a6b1b095"
+			"b8be6ca9-7f44-4bd8-87cf-2cb9b93debbc" "e5cf81a8-66d8-45a6-a092-3b51483bcdd8"
 		)
 	)
 	(embedded_fonts no)
