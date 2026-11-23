@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "keyswitches.pretty-master") (type "KiCad") (uri "${KIPRJMOD}/Downloads/keyswitches.pretty-master") (options "") (descr ""))
+)
